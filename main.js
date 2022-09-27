@@ -572,7 +572,7 @@ eval("module.exports = JSON.parse('{\"links\":{\"discord\":\"https://discord.gg/
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	!function() {
-/******/ 		__webpack_require__.p = "/";
+/******/ 		__webpack_require__.p = "/landing-page/";
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */
