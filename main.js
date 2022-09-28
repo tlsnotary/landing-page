@@ -255,9 +255,9 @@ eval("__webpack_require__.r(__webpack_exports__);\nconst reportWebVitals = onPer
 /*!**************************************!*\
   !*** ./src/images/discord_round.svg ***!
   \**************************************/
-/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+/***/ (function(module) {
 
-eval("module.exports = __webpack_require__.p + \"84836ac2942f6590f218ec6562de311e.svg\";\n\n//# sourceURL=webpack://tlsn-landingpage/./src/images/discord_round.svg?");
+eval("module.exports = \"./84836ac2942f6590f218ec6562de311e.svg\";\n\n//# sourceURL=webpack://tlsn-landingpage/./src/images/discord_round.svg?");
 
 /***/ }),
 
@@ -265,9 +265,9 @@ eval("module.exports = __webpack_require__.p + \"84836ac2942f6590f218ec6562de311
 /*!**************************************!*\
   !*** ./src/images/eth-logo-blue.svg ***!
   \**************************************/
-/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+/***/ (function(module) {
 
-eval("module.exports = __webpack_require__.p + \"ae4b8d1ab50ea2141585d36fcda8639f.svg\";\n\n//# sourceURL=webpack://tlsn-landingpage/./src/images/eth-logo-blue.svg?");
+eval("module.exports = \"./ae4b8d1ab50ea2141585d36fcda8639f.svg\";\n\n//# sourceURL=webpack://tlsn-landingpage/./src/images/eth-logo-blue.svg?");
 
 /***/ }),
 
@@ -275,9 +275,9 @@ eval("module.exports = __webpack_require__.p + \"ae4b8d1ab50ea2141585d36fcda8639
 /*!*******************************!*\
   !*** ./src/images/github.svg ***!
   \*******************************/
-/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+/***/ (function(module) {
 
-eval("module.exports = __webpack_require__.p + \"b2cf12c44bb7ed18b64763ccd725c5c8.svg\";\n\n//# sourceURL=webpack://tlsn-landingpage/./src/images/github.svg?");
+eval("module.exports = \"./b2cf12c44bb7ed18b64763ccd725c5c8.svg\";\n\n//# sourceURL=webpack://tlsn-landingpage/./src/images/github.svg?");
 
 /***/ }),
 
@@ -285,9 +285,9 @@ eval("module.exports = __webpack_require__.p + \"b2cf12c44bb7ed18b64763ccd725c5c
 /*!****************************************!*\
   !*** ./src/images/overview-pretty.png ***!
   \****************************************/
-/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+/***/ (function(module) {
 
-eval("module.exports = __webpack_require__.p + \"8d550a0239d76324372d510362a576ff.png\";\n\n//# sourceURL=webpack://tlsn-landingpage/./src/images/overview-pretty.png?");
+eval("module.exports = \"./8d550a0239d76324372d510362a576ff.png\";\n\n//# sourceURL=webpack://tlsn-landingpage/./src/images/overview-pretty.png?");
 
 /***/ }),
 
@@ -295,9 +295,9 @@ eval("module.exports = __webpack_require__.p + \"8d550a0239d76324372d510362a576f
 /*!**********************************!*\
   !*** ./src/images/tlsn-logo.svg ***!
   \**********************************/
-/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+/***/ (function(module) {
 
-eval("module.exports = __webpack_require__.p + \"82ea1602e195668c50ed35a003319617.svg\";\n\n//# sourceURL=webpack://tlsn-landingpage/./src/images/tlsn-logo.svg?");
+eval("module.exports = \"./82ea1602e195668c50ed35a003319617.svg\";\n\n//# sourceURL=webpack://tlsn-landingpage/./src/images/tlsn-logo.svg?");
 
 /***/ }),
 
