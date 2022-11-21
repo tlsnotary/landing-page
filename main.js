@@ -499,7 +499,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ (function(module) {
 
 "use strict";
-eval("module.exports = JSON.parse('{\"links\":{\"discord\":\"https://discord.gg/9XwESXtcN7\",\"repo\":\"https://github.com/tlsnotary/tlsn\",\"docs\":\"https://tlsnotary.github.io/docs-mdbook/\",\"pse\":\"https://appliedzkp.org/\",\"legacy\":\"https://tlsnotary.org/\"}}');\n\n//# sourceURL=webpack://tlsn-landingpage/./src/config.json?");
+eval("module.exports = JSON.parse('{\"links\":{\"discord\":\"https://discord.gg/9XwESXtcN7\",\"repo\":\"https://github.com/tlsnotary/tlsn\",\"docs\":\"https://docs.tlsnotary.org\",\"pse\":\"https://appliedzkp.org/\",\"legacy\":\"https://old.tlsnotary.org/\"}}');\n\n//# sourceURL=webpack://tlsn-landingpage/./src/config.json?");
 
 /***/ })
 
