@@ -1,10 +1,6 @@
 /*!*****************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js!./src/index.css ***!
   \*****************************************************************/
-@import url(https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap);
-/*!*********************************************************************!*\
-  !*** css ./node_modules/css-loader/dist/cjs.js!./src/index.css (1) ***!
-  \*********************************************************************/
 :root {
   --light-purple: rgb(195, 181, 250);
   --purple: #cfc4fb;
@@ -51,8 +47,7 @@ body {
   text-rendering: optimizeLegibility;
   background-color: var(--background);
   background-attachment: fixed;
-  font-family: 'Space Grotesk', sans-serif;
-  ;
+  font-family: "Inter", sans-serif;
 }
 
 h1,
@@ -112,7 +107,9 @@ html {
   Responsiveness
 */
 
-@media screen and (max-width: 800px) {}
+@media screen and (max-width: 800px) {
+}
+
 /*!*****************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js!./src/components/Navbar.css ***!
   \*****************************************************************************/
