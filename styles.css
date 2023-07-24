@@ -1,6 +1,10 @@
 /*!*****************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js!./src/index.css ***!
   \*****************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap);
+/*!*********************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/index.css (1) ***!
+  \*********************************************************************/
 :root {
   --light-purple: rgb(195, 181, 250);
   --purple: #cfc4fb;
@@ -47,7 +51,8 @@ body {
   text-rendering: optimizeLegibility;
   background-color: var(--background);
   background-attachment: fixed;
-  font-family: "Inter", sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
+  ;
 }
 
 h1,
@@ -107,9 +112,7 @@ html {
   Responsiveness
 */
 
-@media screen and (max-width: 800px) {
-}
-
+@media screen and (max-width: 800px) {}
 /*!*****************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js!./src/components/Navbar.css ***!
   \*****************************************************************************/
@@ -559,31 +562,5 @@ footer {
     max-width: 80%;
     padding: 30px;
   }
-}
-
-/*!*********************************************************************************!*\
-  !*** css ./node_modules/css-loader/dist/cjs.js!./src/components/Pagesigner.css ***!
-  \*********************************************************************************/
-#Pagesigner {
-  display: flex;
-  justify-content: center;
-  background-color: var(--brown);
-}
-
-#Pagesigner h3 {
-  color: var(--white);
-}
-
-#Pagesigner .container {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  text-align: center;
-  align-items: center;
-  background-color: var(--blue);
-  padding-top: 50px;
-  padding-bottom: 50px;
-  margin-left: 10px;
-  margin-right: 10px;
 }
 
